@@ -297,5 +297,9 @@ riff-country-service-function-7cw7f-build-1-xxhz4-build-pod   0/1     Completed 
 square-function-rcfzx-build-1-s4tpk-build-pod                 0/1     Completed   0          6d21h
 ```
 
+# More information
+
+https://projectriff.io/
+
 <hr />
 Pas Apicella [papicella at pivotal.io] is an Advisory Platform Architect at Pivotal Australia
