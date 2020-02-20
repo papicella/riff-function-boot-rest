@@ -1,5 +1,7 @@
 # Spring Boot Function deployed using riff
 
+Inm this demo we have created a Spring Boot Function to make a REST based call to a service to return relevant international country data. Use the international country code of your country when invoking this service using riff as per the example below
+
 ## What is riff
 
 riff is an Open Source platform for building and running Functions, Applications, and Containers on Kubernetes. For more information visit the riff home page as follows (https://projectriff.io/)
