@@ -8,7 +8,7 @@ riff is an Open Source platform for building and running Functions, Applications
 
 ## Steps
 
-1. Ensure you have installed riff. Use the guide below to get started with riff 
+1. Ensure you have installed riff on your machine in this case my laptop. Use the guide below to get started with riff 
 
 https://projectriff.io/docs/v0.5/getting-started
 
@@ -22,7 +22,7 @@ also do by following this guide
 
 https://projectriff.io/docs/v0.5/getting-started/gke
 
-You will be ready once you run this command showing the status of the install
+You will be ready once you run this command to show the status of the riff kubernetes extensions (CRDs and controllers) running in the k8s cluster
 
 ``` bash
 papicella@papicella:~$ riff doctor
